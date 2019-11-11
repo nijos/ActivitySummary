@@ -19,11 +19,11 @@
     font-family: "Segoe UI Regular", "Segoe UI", Arial, Sans-Serif;
     font-size: 1rem;
     line-height: 1.384;
-    background-color: rgb(0, 0, 0);
-    color: #fff;
+    background-color: #fffefe;
+    color: #2e2d2d;
     text-align: left;
     padding: 0.5rem;
-    border-left: 0.1rem solid rgba(255, 255, 255, 0.1);
+    border-left: 0.1rem solid rgba(255, 252, 252, 0.918);
     vertical-align: middle;
     width: 100vw;
   }
@@ -34,7 +34,7 @@
   }
   .activitySummary\.ActivitySummary tr.SimpleTable_TableRow_Style:hover {
     cursor: pointer;
-    border: solid thin rgb(59, 121, 183);
+    border: solid thin#666666;
     background: rgba(160, 160, 160, 0.15);
   }
   .activitySummary\.ActivitySummary td.SimpleTable_TableCell_Style {
@@ -45,7 +45,7 @@
     width: 100vw;
     font-weight: bold;
     font-family: "Segoe UI Light";
-    color: rgb(59, 121, 183);
+    color:#666666;
   }
   .activitySummary\.ActivitySummary td.No_Record_Style {
     text-align: center;
@@ -176,3 +176,4 @@
 
 
 }
+
