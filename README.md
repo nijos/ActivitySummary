@@ -1,5 +1,6 @@
 # ActivitySummary 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/nijojosephraju?locale.x=en_GB)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/nijojosephraju?locale.x=en_GB).
+
 Activity Summary PCF control which shows the summary of activities under a record.
 Steps
 1. Import solution 
